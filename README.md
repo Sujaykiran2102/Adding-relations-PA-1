@@ -56,7 +56,7 @@ const destinations = [
   - Displays the information in an attractive card format
 
 ### 2. Display Requirements
-- Each card must show:
+- Each card must show:  
   - Destination image
   - Name
   - Location
